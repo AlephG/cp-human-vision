@@ -1,5 +1,5 @@
 # cp-human-vision
-A Python implementation of Casey, M. C., & Sowden, P. T. (2012). Modeling learned categorical perception in human vision. Neural Networks, 33, 114–126. https://doi.org/10.1016/j.neunet.2012.05.001.
+A Python implementation of **Casey, M. C., & Sowden, P. T. (2012). Modeling learned categorical perception in human vision. Neural Networks, 33, 114–126. https://doi.org/10.1016/j.neunet.2012.05.001**.
 
 Project done in the context of NEUR503:Computational Neuroscience at McGill University in the Winter 2021 semester.
 
